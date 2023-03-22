@@ -214,3 +214,11 @@
     text-align: center;
     justify-content: center;
 }
+.bigphoto img{
+    height: 100px;
+    width: 100px;
+}
+#servimg{
+    height: 100px;
+    width: 100px;
+}
