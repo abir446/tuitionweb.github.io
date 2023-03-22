@@ -9,7 +9,7 @@ window.location = "newpage.html";
 return false;
 }
     else{
-alert ("Invalid User Id/Password");
+alert ("Invalid Batch Number");
 attempt -- ;
 alert("Only "+attempt+" attempt(s) are left");
         if(attempt==0){
