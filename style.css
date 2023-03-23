@@ -234,7 +234,7 @@
     height: 4px;
     margin: 5px 3px;
 }
-@media only screen and (max-width: 500px){
+@media only screen and (max-width: 848px){
    
 
     .hnav{
@@ -287,5 +287,68 @@
     }
     #Sanjib{
         margin-left: 67px;
+    }
+}
+@media only screen and (max-width: 400px){
+   
+
+    .hnav{
+        height: 0px;
+        /* width: 100%; */
+    }
+    .vclass{
+        opacity: 0;
+    }
+    .bigtext{
+        margin-top: 10px;
+        margin-left: -71px;
+        width: 385px;
+        /* padding-right: 2px; */
+    }
+    #intro{
+        margin-left: -68px;
+        width: 325px;
+    }
+    #servicesh{
+        width: 375px;
+        margin-left: -92px;
+        margin-top: 487px;
+    }
+    #services{
+        width: 360px;
+        margin-left: -87px;
+    }
+    .contact{
+        margin-top: 450px;
+    }
+    /* .btn{ */
+        /* width: 100%; */
+    /* } */
+    .btn{
+        width: 314px;
+        position: relative;
+        margin-left: -67px;
+    }
+    .secondhalf img{
+        /* position: relative; */
+        /* margin: 50px 30px; */
+        opacity: 0;
+    }
+    .bigphoto img{
+        /* position: relative; */
+        /* margin: 50px 30px; */
+        opacity: 0;
+    }
+    /* .bigtext */
+    #whois{
+        width: 385px;
+        margin-left: 125px;
+    }
+    #Sanjib{
+        width: 360px;
+        margin-left: 121px;
+    }
+    .secright{
+        height: 800px;
     }
 }
